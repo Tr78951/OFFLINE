@@ -1,5 +1,0 @@
-/offline_tool/
-    /database/
-        task_data.db
-    offline_tool.cpython-312.so
-    OFFLINE_C.py
